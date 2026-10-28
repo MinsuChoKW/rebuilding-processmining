@@ -1,6 +1,5 @@
 
-De-identified event log for *"Idling, not stalling: Event-log evidence on how urban
-redevelopment projects spend their time."*
+De-identified event log for the anonymized article.
 
 The log is derived from the mandatory procedural-history disclosures of Seoul's
 owner-led redevelopment projects (정비사업 정보몽땅, `cleanup.seoul.go.kr`),
